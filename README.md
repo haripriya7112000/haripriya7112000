@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @haripriya
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently persuing my final year graduation
 - 📫 How to reach me - contact me on my emailid(haripriyaarya711@gmail.com)
 
 <!---
